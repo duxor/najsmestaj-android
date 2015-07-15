@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NajSmestaj</string>
+
+    <string name="porukica">Aplikacija je u izradi... Posetite naš web sajt</string>
+    <string name="dugme">NajSmeštaj</string>
+    <string name="action_settings">Settings</string>
+    <string name="sadrzaj">Odgovor</string>
+    <string name="title_activity_kontakt">Kontakt</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_smestaj">Smestaj</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_rezervacije">Rezervacije</string>
+</resources>
